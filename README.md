@@ -1,5 +1,8 @@
 # KIVO — Train. Progress. Become.
 
+
+Demo video : https://www.youtube.com/watch?v=icUHj963zWY
+
 > **An AI-powered athletic development platform for kids ages 5–16.**
 
 KIVO turns physical activity into a measurable, personalized progression system.
